@@ -19,14 +19,14 @@ git clone https://github.com/yourusername/TelegramBotMessageSender.git
 cd TelegramBotMessageSender
 ```
 2) Install the required Python packages:
-
+```
 pip install requests
-
+```
 3) Create a bot_parameters.txt file in the project directory with the following content:
-
-bot_token = "your_bot_token" ;
+```
+bot_token = "your_bot_token"
 chatID = "your_chat_id"
-
+```
 ## Usage
 
 1. Run the script:
@@ -36,10 +36,10 @@ python telegram_bot.py
 2. Follow the prompts to either use the existing bot token and chat ID or enter new ones.
 
 ## Example bot_parameters.txt
-
-bot_token = "7371234338:AAGabZBuQp234gdffgV03Jcdg8cCwDABYHDnJig" ;
+```
+bot_token = "7371234338:AAGabZBuQp234gdffgV03Jcdg8cCwDABYHDnJig"
 chatID = "571689023"
-
+```
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
