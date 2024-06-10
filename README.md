@@ -30,9 +30,9 @@ chatID = "your_chat_id"
 ## Usage
 
 1. Run the script:
-
+```
 python telegram_bot.py
-
+```
 2. Follow the prompts to either use the existing bot token and chat ID or enter new ones.
 
 ## Example bot_parameters.txt
