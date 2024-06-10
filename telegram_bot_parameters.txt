@@ -1,0 +1,2 @@
+bot_token = "7373454338:ABGabZB23424d5zysdfgdg8cCwDABJi"
+chatID = "571424032"
