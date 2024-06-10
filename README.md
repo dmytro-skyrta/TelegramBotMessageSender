@@ -15,7 +15,7 @@ TelegramBotMessageSender is a Python-based application designed to automate the 
 
 1) Clone the repository:
 
-git clone https://github.com/yourusername/TelegramBotMessageSender.git
+git clone https://github.com/yourusername/TelegramBotMessageSender.git ;
 cd TelegramBotMessageSender
 
 2) Install the required Python packages:
@@ -24,7 +24,7 @@ pip install requests
 
 3) Create a bot_parameters.txt file in the project directory with the following content:
 
-bot_token = "your_bot_token"
+bot_token = "your_bot_token" ;
 chatID = "your_chat_id"
 
 # Usage
@@ -37,7 +37,7 @@ python telegram_bot.py
 
 # Example bot_parameters.txt
 
-bot_token = "7371234338:AAGabZBuQp234gdffgV03Jcdg8cCwDABYHDnJig"
+bot_token = "7371234338:AAGabZBuQp234gdffgV03Jcdg8cCwDABYHDnJig" ;
 chatID = "571689023"
 
 # Contributing
