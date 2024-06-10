@@ -27,7 +27,7 @@ pip install requests
 bot_token = "your_bot_token"
 chatID = "your_chat_id"
 ```
-### Example bot_parameters.txt
+## Example bot_parameters.txt
 ```
 bot_token = "7371234338:AAGabZBuQp234gdffgV03Jcdg8cCwDABYHDnJig"
 chatID = "571689023"
